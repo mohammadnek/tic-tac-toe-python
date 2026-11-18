@@ -50,7 +50,7 @@ python3 --version
 Clone with Git:
 
 ```bash
-git clone https://github.com/USERNAME/tic-tac-toe-python.git
+git clone https://github.com/mohammadnek/tic-tac-toe-python.git
 cd tic-tac-toe-python
 ```
 
